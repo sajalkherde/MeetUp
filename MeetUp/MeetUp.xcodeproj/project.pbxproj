@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					121BE8C11F1DB7D200D1703B = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7FC66SK274;
+						DevelopmentTeam = 76ZTUD26ZS;
 						ProvisioningStyle = Automatic;
 					};
 					121BE8D51F1DB7D200D1703B = {
@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7FC66SK274;
+				DEVELOPMENT_TEAM = 76ZTUD26ZS;
 				INFOPLIST_FILE = MeetUp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SJ.MeetUp;
@@ -428,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7FC66SK274;
+				DEVELOPMENT_TEAM = 76ZTUD26ZS;
 				INFOPLIST_FILE = MeetUp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SJ.MeetUp;
@@ -514,6 +514,7 @@
 				121BE8EC1F1DB7D200D1703B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		121BE8ED1F1DB7D200D1703B /* Build configuration list for PBXNativeTarget "MeetUpTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				121BE8EF1F1DB7D200D1703B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		121BE8F01F1DB7D200D1703B /* Build configuration list for PBXNativeTarget "MeetUpUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				121BE8F21F1DB7D200D1703B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
