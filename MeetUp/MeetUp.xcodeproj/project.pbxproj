@@ -3,10 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1215B9261F1F0BD800B886CD /* lights-party-dancing-music.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1215B9241F1F0BD800B886CD /* lights-party-dancing-music.jpg */; };
+		1215B9271F1F0BD800B886CD /* pexels-photo-508130.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1215B9251F1F0BD800B886CD /* pexels-photo-508130.jpeg */; };
 		121BE8C61F1DB7D200D1703B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121BE8C51F1DB7D200D1703B /* AppDelegate.swift */; };
 		121BE8C81F1DB7D200D1703B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121BE8C71F1DB7D200D1703B /* ViewController.swift */; };
 		121BE8CB1F1DB7D200D1703B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 121BE8C91F1DB7D200D1703B /* Main.storyboard */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1215B9241F1F0BD800B886CD /* lights-party-dancing-music.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lights-party-dancing-music.jpg"; sourceTree = SOURCE_ROOT; };
+		1215B9251F1F0BD800B886CD /* pexels-photo-508130.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-photo-508130.jpeg"; sourceTree = SOURCE_ROOT; };
 		121BE8C21F1DB7D200D1703B /* MeetUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeetUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		121BE8C51F1DB7D200D1703B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		121BE8C71F1DB7D200D1703B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 		121BE8C41F1DB7D200D1703B /* MeetUp */ = {
 			isa = PBXGroup;
 			children = (
+				1215B9241F1F0BD800B886CD /* lights-party-dancing-music.jpg */,
+				1215B9251F1F0BD800B886CD /* pexels-photo-508130.jpeg */,
 				EBC8BB621F1EF509001B3403 /* IMG_4270.png */,
 				121BE8C51F1DB7D200D1703B /* AppDelegate.swift */,
 				121BE8C71F1DB7D200D1703B /* ViewController.swift */,
@@ -214,7 +220,7 @@
 				};
 			};
 			buildConfigurationList = 121BE8BD1F1DB7D200D1703B /* Build configuration list for PBXProject "MeetUp" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -240,7 +246,9 @@
 			files = (
 				EBC8BB631F1EF509001B3403 /* IMG_4270.png in Resources */,
 				121BE8D01F1DB7D200D1703B /* LaunchScreen.storyboard in Resources */,
+				1215B9261F1F0BD800B886CD /* lights-party-dancing-music.jpg in Resources */,
 				121BE8CD1F1DB7D200D1703B /* Assets.xcassets in Resources */,
+				1215B9271F1F0BD800B886CD /* pexels-photo-508130.jpeg in Resources */,
 				121BE8CB1F1DB7D200D1703B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
