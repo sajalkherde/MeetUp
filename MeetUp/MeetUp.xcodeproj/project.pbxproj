@@ -14,6 +14,7 @@
 		121BE8D01F1DB7D200D1703B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 121BE8CE1F1DB7D200D1703B /* LaunchScreen.storyboard */; };
 		121BE8DB1F1DB7D200D1703B /* MeetUpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121BE8DA1F1DB7D200D1703B /* MeetUpTests.swift */; };
 		121BE8E61F1DB7D200D1703B /* MeetUpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121BE8E51F1DB7D200D1703B /* MeetUpUITests.swift */; };
+		EBC8BB631F1EF509001B3403 /* IMG_4270.png in Resources */ = {isa = PBXBuildFile; fileRef = EBC8BB621F1EF509001B3403 /* IMG_4270.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		121BE8E11F1DB7D200D1703B /* MeetUpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetUpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		121BE8E51F1DB7D200D1703B /* MeetUpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetUpUITests.swift; sourceTree = "<group>"; };
 		121BE8E71F1DB7D200D1703B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBC8BB621F1EF509001B3403 /* IMG_4270.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_4270.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		121BE8C41F1DB7D200D1703B /* MeetUp */ = {
 			isa = PBXGroup;
 			children = (
+				EBC8BB621F1EF509001B3403 /* IMG_4270.png */,
 				121BE8C51F1DB7D200D1703B /* AppDelegate.swift */,
 				121BE8C71F1DB7D200D1703B /* ViewController.swift */,
 				121BE8C91F1DB7D200D1703B /* Main.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBC8BB631F1EF509001B3403 /* IMG_4270.png in Resources */,
 				121BE8D01F1DB7D200D1703B /* LaunchScreen.storyboard in Resources */,
 				121BE8CD1F1DB7D200D1703B /* Assets.xcassets in Resources */,
 				121BE8CB1F1DB7D200D1703B /* Main.storyboard in Resources */,
